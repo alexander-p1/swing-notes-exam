@@ -1,0 +1,17 @@
+{"title":"Titel3 blir nu 5","text":"text3 blir nu 5","userId":"dPI0dQiJNYBWMBGF","createdAt":{"$$date":1746455436366},"_id":"CytGdYsDvAFk3Lvo","modifiedAt":{"$$date":1746455458670}}
+{"title":"Titel2","text":"text2","userId":"dPI0dQiJNYBWMBGF","createdAt":{"$$date":1746455431507},"_id":"b727pplf9MehqUuu"}
+{"title":"Ny uppdaterad note","text":"Detta ska göras idag!","userId":"WvdvwMzf03WJgG8i","createdAt":{"$$date":1746438403452},"_id":"dwDFJ1XSt1mIqTld"}
+{"title":"En note uppdaterad igen","text":"Detta ska göras igen","userId":"hv8ZyJ3v8HICvqmx","createdAt":{"$$date":1746454341808},"_id":"frlTC9OJbg2hTa9F","modifiedAt":{"$$date":1746454378742}}
+{"title":"Ny note uppdaterad ","text":"Detta har vi gjort idag hehe","userId":"OupFScHmVqy9lk4v","createdAt":{"$$date":1746444226581},"_id":"tgZhDnZ0TZJ8Arcf","modifiedAt":{"$$date":1746444260301}}
+{"title":"Ny titel","text":"Detta ska göras","userId":"L3tD276Ke7z7hkB2","createdAt":{"$$date":1746461883478},"_id":"LpzQBpPi1rmIyrmy"}
+{"title":"Ny titel1","text":"Detta ska göras1","userId":"L3tD276Ke7z7hkB2","createdAt":{"$$date":1746461905636},"_id":"mmfwwvVKMUzp4Hdm"}
+{"title":"Ny titel1 uppdaterad","text":"Detta ska göras1 uppdaterad","userId":"L3tD276Ke7z7hkB2","createdAt":{"$$date":1746461905636},"_id":"mmfwwvVKMUzp4Hdm","modifiedAt":{"$$date":1746461933034}}
+{"$$deleted":true,"_id":"LpzQBpPi1rmIyrmy"}
+{"title":"Ny note","text":"Massa ny text","userId":"2jZwyFSdu6ubDWgX","createdAt":{"$$date":1746465191196},"_id":"3rRtQAGL2LuITzXF"}
+{"title":"Ny note igen","text":"Massa ny text igen","userId":"2jZwyFSdu6ubDWgX","createdAt":{"$$date":1746465211117},"_id":"ShRNvoPSg0AFn9lL"}
+{"title":"Ny note igen uppdaterad","text":"Massa ny text igen uppdaterad","userId":"2jZwyFSdu6ubDWgX","createdAt":{"$$date":1746465211117},"_id":"ShRNvoPSg0AFn9lL","modifiedAt":{"$$date":1746465229613}}
+{"$$deleted":true,"_id":"ShRNvoPSg0AFn9lL"}
+{"title":"Ny anteckning","text":"Detta ska göras idag","userId":"LKycfxpt1mVXjszi","createdAt":{"$$date":1746466735140},"_id":"PxtS46OTEIDdy6WH"}
+{"title":"Ny anteckning igen","text":"Detta ska göras idag igen","userId":"LKycfxpt1mVXjszi","createdAt":{"$$date":1746466756192},"_id":"1LdNUiEuyztGLn5r"}
+{"title":"Ny anteckning igen updated","text":"Detta ska göras idag igen updated","userId":"LKycfxpt1mVXjszi","createdAt":{"$$date":1746466735140},"_id":"PxtS46OTEIDdy6WH","modifiedAt":{"$$date":1746466781831}}
+{"$$deleted":true,"_id":"PxtS46OTEIDdy6WH"}
