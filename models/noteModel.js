@@ -19,6 +19,11 @@ export const findNotesByUserId = (userId, callback) => {
   noteDB.find({ userId }, callback);
 };
 
+// Find note by title
+export const findNoteByTitle = (title, callback) => {
+  noteDB.find({ title }, callback);
+};
+
 // Update note by id
 export const updateNoteById = (id, userId, updates, callback) => {
   noteDB.update({ _id: id, userId }, { $set: updates }, {}, callback);

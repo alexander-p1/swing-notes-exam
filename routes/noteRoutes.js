@@ -4,6 +4,7 @@ import {
   getNotes,
   updateNote,
   deleteNote,
+  getNoteByTitle,
 } from "../controllers/noteController.js";
 import authMiddleware from "../middleware/authMiddleware.js";
 import { validateNoteData } from "../middleware/noteMiddleware.js";
@@ -109,5 +110,8 @@ router.put("/:id", validateNoteData, updateNote);
 
 // Delete note
 router.delete("/:id", deleteNote);
+
+// Search for note by title
+router.get("/search", getNoteByTitle);
 
 export default router;

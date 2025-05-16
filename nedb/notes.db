@@ -1,17 +1,18 @@
+{"title":"Ny anteckning igen","text":"Detta ska göras idag igen","userId":"LKycfxpt1mVXjszi","createdAt":{"$$date":1746466756192},"_id":"1LdNUiEuyztGLn5r"}
+{"title":"Ny note","text":"Massa ny text","userId":"2jZwyFSdu6ubDWgX","createdAt":{"$$date":1746465191196},"_id":"3rRtQAGL2LuITzXF"}
+{"title":"Avatar","text":"Avatarer är coola","userId":"w1rcGHeQ4bOpBWU2","createdAt":{"$$date":1747411296071},"_id":"7CLEmK6iiQAYGsp7"}
+{"title":"Avatar 2","text":"Avatarer är coola 2","userId":"w1rcGHeQ4bOpBWU2","createdAt":{"$$date":1747411304052},"_id":"7oFLY27qWeYR48Rs"}
 {"title":"Titel3 blir nu 5","text":"text3 blir nu 5","userId":"dPI0dQiJNYBWMBGF","createdAt":{"$$date":1746455436366},"_id":"CytGdYsDvAFk3Lvo","modifiedAt":{"$$date":1746455458670}}
 {"title":"Titel2","text":"text2","userId":"dPI0dQiJNYBWMBGF","createdAt":{"$$date":1746455431507},"_id":"b727pplf9MehqUuu"}
+{"title":"Harry Potter","text":"The boy who lived","userId":"Z8sYF59Wcw5pmX6l","createdAt":{"$$date":1747406963914},"_id":"dPF4cC1bsEeSm14K"}
 {"title":"Ny uppdaterad note","text":"Detta ska göras idag!","userId":"WvdvwMzf03WJgG8i","createdAt":{"$$date":1746438403452},"_id":"dwDFJ1XSt1mIqTld"}
 {"title":"En note uppdaterad igen","text":"Detta ska göras igen","userId":"hv8ZyJ3v8HICvqmx","createdAt":{"$$date":1746454341808},"_id":"frlTC9OJbg2hTa9F","modifiedAt":{"$$date":1746454378742}}
-{"title":"Ny note uppdaterad ","text":"Detta har vi gjort idag hehe","userId":"OupFScHmVqy9lk4v","createdAt":{"$$date":1746444226581},"_id":"tgZhDnZ0TZJ8Arcf","modifiedAt":{"$$date":1746444260301}}
-{"title":"Ny titel","text":"Detta ska göras","userId":"L3tD276Ke7z7hkB2","createdAt":{"$$date":1746461883478},"_id":"LpzQBpPi1rmIyrmy"}
-{"title":"Ny titel1","text":"Detta ska göras1","userId":"L3tD276Ke7z7hkB2","createdAt":{"$$date":1746461905636},"_id":"mmfwwvVKMUzp4Hdm"}
 {"title":"Ny titel1 uppdaterad","text":"Detta ska göras1 uppdaterad","userId":"L3tD276Ke7z7hkB2","createdAt":{"$$date":1746461905636},"_id":"mmfwwvVKMUzp4Hdm","modifiedAt":{"$$date":1746461933034}}
-{"$$deleted":true,"_id":"LpzQBpPi1rmIyrmy"}
-{"title":"Ny note","text":"Massa ny text","userId":"2jZwyFSdu6ubDWgX","createdAt":{"$$date":1746465191196},"_id":"3rRtQAGL2LuITzXF"}
-{"title":"Ny note igen","text":"Massa ny text igen","userId":"2jZwyFSdu6ubDWgX","createdAt":{"$$date":1746465211117},"_id":"ShRNvoPSg0AFn9lL"}
-{"title":"Ny note igen uppdaterad","text":"Massa ny text igen uppdaterad","userId":"2jZwyFSdu6ubDWgX","createdAt":{"$$date":1746465211117},"_id":"ShRNvoPSg0AFn9lL","modifiedAt":{"$$date":1746465229613}}
-{"$$deleted":true,"_id":"ShRNvoPSg0AFn9lL"}
-{"title":"Ny anteckning","text":"Detta ska göras idag","userId":"LKycfxpt1mVXjszi","createdAt":{"$$date":1746466735140},"_id":"PxtS46OTEIDdy6WH"}
-{"title":"Ny anteckning igen","text":"Detta ska göras idag igen","userId":"LKycfxpt1mVXjszi","createdAt":{"$$date":1746466756192},"_id":"1LdNUiEuyztGLn5r"}
-{"title":"Ny anteckning igen updated","text":"Detta ska göras idag igen updated","userId":"LKycfxpt1mVXjszi","createdAt":{"$$date":1746466735140},"_id":"PxtS46OTEIDdy6WH","modifiedAt":{"$$date":1746466781831}}
-{"$$deleted":true,"_id":"PxtS46OTEIDdy6WH"}
+{"title":"Harry Potter 2","text":"The boy who lived 2","userId":"Z8sYF59Wcw5pmX6l","createdAt":{"$$date":1747406970765},"_id":"mn3clajSHG77iM44"}
+{"title":"Sagan om Ringen","text":"Detta är en bok som handlar om en ring","userId":"enYz1g7Wx19cI44s","createdAt":{"$$date":1747406023415},"_id":"oaQ6myouXpeIkPpq"}
+{"title":"Harry Potter 3","text":"The boy who lived 3","userId":"Z8sYF59Wcw5pmX6l","createdAt":{"$$date":1747406975276},"_id":"s8XdQi1UU4Dtlhcf"}
+{"title":"Sagan om de två tornen","text":"Detta är en bok som handlar om en ring igen","userId":"enYz1g7Wx19cI44s","createdAt":{"$$date":1747406058194},"_id":"t8gSKKyVQwCkI8Am"}
+{"title":"Ny note uppdaterad ","text":"Detta har vi gjort idag hehe","userId":"OupFScHmVqy9lk4v","createdAt":{"$$date":1746444226581},"_id":"tgZhDnZ0TZJ8Arcf","modifiedAt":{"$$date":1746444260301}}
+{"title":"Titel","text":"Text","userId":"lWTgqA2hbKhpUkSo","createdAt":{"$$date":1747415375820},"_id":"6S5tQ29MqFU0GKTW"}
+{"title":"Titel 2","text":"Text 2","userId":"lWTgqA2hbKhpUkSo","createdAt":{"$$date":1747415379313},"_id":"62CB0W498SyfiTUF"}
+{"title":"Titel 3","text":"Text 3","userId":"lWTgqA2hbKhpUkSo","createdAt":{"$$date":1747415383495},"_id":"3QUAQigTZ7RHZW4P"}

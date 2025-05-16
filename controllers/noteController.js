@@ -3,12 +3,13 @@ import {
   findNotesByUserId,
   updateNoteById,
   deleteNoteById,
+  findNoteByTitle,
 } from "../models/noteModel.js";
 
 // Create a new note
 export const createNote = (req, res) => {
   const { title, text } = req.body;
-  const userId = req.user.id; 
+  const userId = req.user.id;
 
   if (!title || !text) {
     return res.status(400).json({ message: "Title and text are required." });
@@ -33,6 +34,24 @@ export const getNotes = (req, res) => {
       return res.status(500).json({ message: "Error fetching notes." });
     }
     res.status(200).json(notes);
+  });
+};
+
+// Get note by title
+export const getNoteByTitle = (req, res) => {
+  const { title } = req.body;
+
+  if (!title) {
+    return res.status(404).json({ message: "Please enter a title." });
+  }
+
+  findNoteByTitle(title, (err, note) => {
+    if (!note || note.length === 0) {
+      return res
+        .status(500)
+        .json({ message: "Error fetching note by title.", err });
+    }
+    res.status(200).json(note);
   });
 };
 
